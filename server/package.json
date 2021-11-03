@@ -16,6 +16,6 @@
         "express": "^5.0.0-alpha.7",
         "lodash": "^4.17.15",
         "mysql": "^2.18.1",
-        "validator": "^12.2.0"
+        "validator": "^13.7.0"
     }
 }
